@@ -1,0 +1,16 @@
+C:\Users\2150467\source\repos\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.exe
+C:\Users\2150467\source\repos\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.deps.json
+C:\Users\2150467\source\repos\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.runtimeconfig.json
+C:\Users\2150467\source\repos\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.dll
+C:\Users\2150467\source\repos\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.pdb
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.Form1.resources
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.csproj.GenerateResource.cache
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.AssemblyInfoInputs.cache
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.AssemblyInfo.cs
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.dll
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\refint\kalkulator.dll
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.pdb
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.genruntimeconfig.cache
+C:\Users\2150467\source\repos\kalkulator\kalkulator\obj\Debug\net8.0-windows\ref\kalkulator.dll
